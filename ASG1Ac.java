@@ -1,4 +1,4 @@
-// Volume Factorials and Armstrong Using Java
+// Volume Factorials and Armstrong Using Java 
 import java.io.*;
 public class ASG1Ac
 {
@@ -54,9 +54,9 @@ public class ASG1Ac
                 }
 
                 if(result == nm)
-                    System.out.println(nm + " is an Armstrong number.");
+                    System.out.println(nm + " is an Armstrong Number.");
                 else
-                    System.out.println(nm + " is not an Armstrong number.");
+                    System.out.println(nm + " is not an Armstrong Number.");
              break;
  
             case 4:
