@@ -67,3 +67,4 @@ public class ASG1Bb
 			System.out.println("Number is Zero");
 	}
 }
+//Coded By Dnyaneshwar Shelar 
